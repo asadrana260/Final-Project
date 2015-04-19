@@ -1,0 +1,157 @@
+<html>
+<head>
+<title>	STAFF OF HOSPITAL</title>
+</head>
+
+<body  background="img.jpg" width="800px"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="20" marginheight="0" marginwidth="0" style="background-color:white;">
+<table border="0" width="100%" hieght="100%" cellspacing="0" cellpadding="0" bgcolor="black">
+  <tr>
+    <td  width="100%"><font face="ITALIAN" size="20" color="white"> STAFF OF HOSPITAL</font></td>
+
+
+
+<td  font face="ITALIAN" size="20" color="white"><form action="demo_form.asp">
+   <input type="text" name="fname"><br>
+
+
+  <input type="submit" value="search">
+</form></font></a> </font></td> </P>
+
+  </tr>
+</table>
+
+<table   border="2" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="12%" bgcolor="#eeeeee" valign="top">&nbsp;
+      <p style="margin-left: 50"><b><font face="ITALIAN" size="" color="black"></p> => DOCTOR</p>
+      
+      => <a href="https://www.google.com/search?q=dentist+in+hospital&biw=1366&bih=667&tbm=isch&source=lnms&sa=X&ei=l-InVfqaKteLuAST9oDoCQ&ved=0CAgQ_AUoAw&dpr=1#tbm=isch&q=dentist+care
+" >DENTIST IMAGE</a><br></p>
+=> <a href="https://www.google.com/search?q=dentist+in+hospital&biw=1366&bih=667&tbm=isch&source=lnms&sa=X&ei=l-InVfqaKteLuAST9oDoCQ&ved=0CAgQ_AUoAw&dpr=1#tbm=isch&q=CARDIOLOGY+" >CARDIOLOGY IMAGE</a> <br></p>
+    
+      => <a href="LOGIN.html" >LOGIN</a>
+         <p>&nbsp;</td>
+     <td width="61%" valign="top">
+      <blockquote>
+        <p><br>
+        <font face="ITALIAN" size="5">DOCTOR</font></p>
+    
+<table border="5" cellpadding="5" >
+
+ <tr>
+    <th>doctors</th>
+   <th>Education</th>
+    <th>Specialty</th>
+    <th>time</th>
+  </tr>
+
+
+<tr> 
+<td>Dr. Ahmad Aslam </td>
+<td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+<td>Dr.General Surgeon</td>
+<td>SUNDAY  9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. Awais Pervez</td>
+
+<td> BDS, FDSRCPS</td>
+<td>	Dental Surgeon</td>
+<td>MONDAY 9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. Ashfaq Ahmad </td>
+
+<td>MBBS,FCPS</td>
+<td>Consultant Paediatrician.</td>
+<td>  Monday    9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. Kamran Tahir </td>
+
+<td> MBBS, MCPS, FCPS</td>
+<td>Obstetrics & Gynaecology</td>
+<td>Wednesday  3:30 p.m - 7:00 p.m</td>
+
+<tr><td>Dr. Muneeb Ul Rehman </td>
+
+<td>MBBS, MS (Neurosurgery)</td>
+<td>Neurosurgeon</td>
+<td>SUNDAY   9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. M.Masood </td>
+
+<td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+<td>Paeds Urologist</td>
+<td>Saturday  4:30 p.m - 7:00 p.m</td>
+
+<tr><td>Dr. Mariam </td>
+
+<td> BDS, FDSRCPS</td>
+<td>Dental Surgeon</td>
+<td>Wadesday  9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. Azeem </td>
+
+<td> MBBS, M.D, FCPS, FRCS, FACS</td>
+<td>Laparoscopic and Bariatric Surgery</td>
+<td>SUNDAY   7:30 p.m - 11:00 p.m</td>
+
+<tr><td>Dr. Asad Ashfaq</td>
+
+<td> MBBS,FRCS.</td>
+<td>Plastic Surgeon</td>
+<td>Monday  7:30 p.m - 10:00 p.m</td>
+
+<tr><td>Dr. Arslan </td>
+
+<td> MBBS, MRCS, FCPS)</td>
+<td>Dr.General Surgeon</td>
+<td>Thursday   9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. M Azeem </td>
+
+<td> FRCS,FRCS (Tr & Ortho)</td>
+<td>	Consultant Orthpaedic Surgeon</td>
+<td>SUNDAY   3:30 p.m - 7:00 p.m</td>
+
+<tr><td>Dr. M Amad </td>
+
+<td> F.R.C.S. ORL (UK)  ENT Consultant</td>
+<td>E.N.T.</td>
+<td>FRIDAY   3:30 p.m - 7:00 p.m</td>
+
+<tr><td>Dr. Wasal</td>
+
+<td> MBBS, MD, FACC,</td>
+<td>Consultant Clinical & Interventional Cardiologist</td>
+<td>SATURDAY  7:30 P.m - 10:00 p.m</td>
+
+<tr><td>Dr. M Aqsa </td>
+
+<td> MBBS, FCPS-I, FRCS, MMS</td>
+<td>General/Vascular & Endovascular Surgeon</td>
+<td>DAILY  9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. M Waqas </td>
+
+<td> BS, BDS, FCPS</td>
+<td>Oral & Maxillofacial Surgery</td>
+<td>TUESDAY   9:30 a.m - 2:00 p.m</td>
+
+<tr><td>Dr. M Maheen </td>
+
+<td> MBBS</td>
+<td>Cardiology</td>
+<td>FRIDAY  4:00 a.m - 7:00 p.m</td>
+
+
+
+</table>
+        
+        
+        
+    
+</table>
+
+
+</body>
+
+</html>
