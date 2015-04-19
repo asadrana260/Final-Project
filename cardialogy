@@ -1,1 +1,80 @@
 
+<html>
+<head>
+<title>cardiology</title>
+</head>
+
+<p style="margin-left: 50" 
+<body background="phaks.jpg"  topmargin="0" leftmargin="0" rightmargin="0" bottommargin="20" marginheight="0" marginwidth="0" style="background-color:white;">
+<table border="0" width="100%" hieght="100%" cellspacing="0" cellpadding="0" bgcolor="black">
+  <tr>
+    <td width="100%">
+     <h style="text-align:center" color="white"> CARDIO</h>
+     <h style="text-align:center" color="white"> CARDIOLOGY</h>
+     <font face="ITALIAN" size="20" color="white"> CARDIOLOGY</font></td>
+</td>
+  </tr>
+</table>
+
+  <tr>
+    <td width="100%"><font color="grey" face="Arial" size="2"><b></b></font></td>
+  </tr>
+</table>
+<table  background=""background-repeat: no-repeat; border="2" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="10%" bgcolor="#eeeeee" valign="top">&nbsp;
+      <p style="margin-left: 50"><b><font face="ITALIAN" size="" color="red"></p></p> => <a href="DOCTOR.html" >DOCTOR</a></p>
+      
+      => <a href="https://www.google.com/search?q=dentist+in+hospital&biw=1366&bih=667&tbm=isch&source=lnms&sa=X&ei=l-InVfqaKteLuAST9oDoCQ&ved=0CAgQ_AUoAw&dpr=1#tbm=isch&q=CARDIOLOGY+" >IMAGE</a> <br></p>
+    
+     => <a href="LOGIN.html" >LOGIN</a>
+</b></p>
+
+     
+    <td width="61%" valign="top">
+      <blockquote>
+        <p><br>
+        <font face="ITALIAN" size="5">INTRODUCTION</font></p>
+        <p><font size="" face="Arial">Hospital is dedicated to healing and protecting the hearts of its patients 
+through state of the art and comprehensive cardiology services including preventative cardiac procedures, diagnostic
+ cardiology, surgical procedures, cardiac rehabilitation and education.
+We value our patients as individuals and are sensitive to each patient's needs giving reassurance whenever needed.
+
+We are proud to have  very experienced Cardiologists guiding our highly trained staff, who specialize in cardiology
+. The 11 bedded CCU has all the state of the art equipment necessary for managing all sorts of cardiovascular emergencies.
+ Facilities include ECG, Echo-Cardiography, Exercise Tolerance Test, Holter Monitoring and Temporary pace maker insertion.
+There is a plan for establishing cardiac catheterization Lab in Shalamar Hospital. The management is working to expand the
+ Department bringing even better clinical services for the patients. The new facilities would incorporate Coronary
+ Angiography, Angioplasty, Stenting and Valvuloplasty.</p>
+<p><font size="4"><b><face="ITALIAN">TYPE OF SURGERY IN CARDIOLOGY </p>
+
+<p style="margin-left: 50"><b><font face="Arial" size="" color="black"> => Heart Valve Repair or Replacement
+      <br>
+      => Arrhythmia Treatment<br>
+     => 
+Aneurysm Repair<br>
+     => 
+Surgical Approaches<br>
+     => Surgical Rehabilitation<br>
+ => Minimally Invasive Heart Surgery<br>
+ => Off-Pump Heart Surgery<br>
+ => Transmyocardial Laser Revascularization<br>
+     => Surgery To Place Ventricular Assist Devices or Total Artificial Hearts</b></p>
+
+
+
+
+
+</font></p>
+        
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </blockquote>
+    
+</table>
+
+
+</body>
+
+</html>
